@@ -1,4 +1,4 @@
-Modelovanie konštrukcie portfólia akcií a opcií
+# Modelovanie konštrukcie portfólia akcií a opcií
 
 Pre riziko averzného investora je problém konštrukcie portfólia akcií a opcií na ne v prostredí vyznačujúcom
 sa náhodnosťou náročná úloha. Ak predpokladáme, že opcie na akcie sú bezarbitrážbne ocenené, tento
